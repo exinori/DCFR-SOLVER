@@ -1,0 +1,22 @@
+# Build
+target/
+
+# Binary artifacts
+*.bin
+*.db
+
+# Profiling
+*.json.gz
+
+# Large logs
+*.log
+
+# Data / results
+result*.json
+training_data/
+
+# OS
+.DS_Store
+
+# Claude/OMC state
+.omc/
